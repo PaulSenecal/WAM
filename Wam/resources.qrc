@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resourcesButton">
+        <file>rcs/accessoriesImageButton.png</file>
+        <file>rcs/ammunitionImageButton.png</file>
+        <file>rcs/consumableImageButton.png</file>
+        <file>rcs/helmetImageButton.png</file>
+        <file>rcs/weaponImageButton.png</file>
+    </qresource>
+</RCC>
